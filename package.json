@@ -1,0 +1,28 @@
+{
+  "name": "namaste.react",
+  "version": "1.0.0",
+  "description": "this is namaste react by me",
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "homepage": "https://github.com/codewithninjaa/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/codewithninjaa/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithninjaa/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "nikita sankrit",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
